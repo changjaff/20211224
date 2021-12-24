@@ -7,16 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace _20211224
 {
-    public partial class Test : System.Web.UI.Page
+    public partial class About : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
-        }
-
-        protected void LinkButton1_Click(object sender, EventArgs e)
-        {
-            lb_Msg.Text = "Hello";
         }
     }
 }

@@ -11,8 +11,17 @@ namespace _20211224
 {
 
 
-    public partial class Test
+    public partial class Main
     {
+
+        /// <summary>
+        /// Home 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder Home;
 
         /// <summary>
         /// lb_Btn 控制項。
@@ -31,5 +40,14 @@ namespace _20211224
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lb_Msg;
+
+        /// <summary>
+        /// Container 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder Container;
     }
 }
